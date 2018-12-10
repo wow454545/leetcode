@@ -7,13 +7,11 @@
 
 `class Solution:  
     def isMatch(self, s, p):  
-    
         """  
         :type s: str
         :type p: str
         :rtype: bool
         """
-        
         import re
         ans = (re.match(p, s))
         if (ans == None):
