@@ -5,9 +5,9 @@
 
 * The class in python can be used and run directly like this:
 
-`class Solution:
-    def isMatch(self, s, p):
-        """
+`class Solution:  
+    def isMatch(self, s, p):  
+        """  
         :type s: str
         :type p: str
         :rtype: bool
