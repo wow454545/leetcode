@@ -6,7 +6,6 @@
 * The class in python can be used and run directly like this:
 
 `class Solution:  
-
     def isMatch(self, s, p):  
     
         """  
