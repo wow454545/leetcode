@@ -24,3 +24,8 @@ class Solution:
 s=Solution()
 print (s.isMatch("ab", ".*c"))
 ```
+
+* For the beginer, you may think the code is so ugly that there is only a class, the following will explain that:
+
+> On the leetcode, what matters is only whether the function we type works, so the input is prepared well for us.
+Thus, we only propose a module as the function, that will be enough.
