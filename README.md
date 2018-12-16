@@ -29,3 +29,6 @@ print (s.isMatch("ab", ".*c"))
 
 > On the leetcode, what matters is only whether the function we type works, so the input is prepared well for us.
 Thus, we only propose a module as the function, that will be enough.
+
+* PROBLEMS
+1. Can not understand the code in 30.py
