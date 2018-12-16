@@ -34,8 +34,9 @@ Thus, we only propose a module as the function, that will be enough.
 > 1. Can not understand the code in 30.py
 
 * HOW TO PSUH THE CODE TO GITHUB?
-> github
-> git add .
-> git commit -m "AC all the problems on leetcode before 1/3/2019"
-> git push -u origin master
+```python
+git add .
+git commit -m "AC all the problems on leetcode before 1/3/2019"
+git push -u origin master
+```
 
