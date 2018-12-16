@@ -31,4 +31,4 @@ print (s.isMatch("ab", ".*c"))
 Thus, we only propose a module as the function, that will be enough.
 
 * PROBLEMS
-1. Can not understand the code in 30.py
+> 1. Can not understand the code in 30.py
