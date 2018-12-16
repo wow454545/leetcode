@@ -35,7 +35,7 @@ Thus, we only propose a module as the function, that will be enough.
 
 * HOW TO PSUH THE CODE TO GITHUB?
 > github
-git add .
-git commit -m "AC all the problems on leetcode before 1/3/2019"
-git push -u origin master
+> git add .
+> git commit -m "AC all the problems on leetcode before 1/3/2019"
+> git push -u origin master
 
